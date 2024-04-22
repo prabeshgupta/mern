@@ -1,0 +1,1 @@
+console.log("Ejs page rendered by Backend")
